@@ -22,7 +22,7 @@ repository               : "Kingsburysen/Kingsburysen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2025/09/01/pVcLubF.jpg" #头像
   name             : "Kingsbury"
   pronouns         : "he" # example: "she/her"  
   bio              : "个人经验：婚礼摄影五年/虚拟美工六年"
